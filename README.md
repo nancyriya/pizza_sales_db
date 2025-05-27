@@ -1,6 +1,8 @@
 Pizza sales dashboard
+
 Dashboard Link :
 Pizza Total Sales Dashboard
+
 Dashboard Link :https://app.powerbi.com/links/o4X88PjOYH?ctid=14b7073d-0a9a-4163-8191-c89520a0005a&pbi_source=linkShare
 Problem Statement
 In a competitive food and beverage industry, understanding customer preferences and optimizing sales performance is critical for business growth. The pizza chain in this case study has been collecting sales data over time but lacks a clear, visual representation of key business metrics. Without an analytical dashboard, decision-makers struggle to:
