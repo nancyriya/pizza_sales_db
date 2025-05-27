@@ -105,16 +105,30 @@ dax Copy code Total Revenue = SUM(pizza_sales[Total Price]) Visual: Card visual 
 
 📸 Snapshot
 
-Image
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/ec812109-f696-42a8-abad-80f6503dc29c" />
 
-Step 18 : The report was then published to Power BI Service.
-publish process
+</p> 
+
+ 
+
+ The report was then published to Power BI Service.
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0284637f-0b93-4f89-afd3-dfd6f0597488.jpg" />
+ 
+</p>
 
 Snapshot of Dashboard (Power BI Service)
-dashboard_snapo
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/c4266fc8-45b8-42ad-9054-ccd0f58336cf" />
+ 
+</p>
 
 Report Snapshot (Power BI DESKTOP)
-Dashboard_upload
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d0841df9-8b69-4920-9664-9ad79c462cee" />
+ 
+</p>
 
 Insights
 Key Business Insights
