@@ -92,7 +92,11 @@ dax Copy Edit % Orders by Category = DIVIDE(COUNT(pizza_sales[Order ID]), CALCUL
 
 📸 Snapshot
 
-Image
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/322be5a9-c334-43b9-9d3d-debf65d8b0de" />
+
+</p> 
+
 
 Total Revenue Calculation
 DAX Measure Used:
